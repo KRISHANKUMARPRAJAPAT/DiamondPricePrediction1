@@ -1,1 +1,128 @@
-<h1>This is the Diamond Price Prediction Home Page</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diamond Price Prediction Model</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-image: url('../static/Black.jpg');
+            background-size: cover; 
+            background-repeat: repeat; 
+            margin: 0;
+            padding: 0;
+            position: relative;
+            transition: background-color 0.5s;
+        }
+
+        .header {
+            text-align: center;
+            padding: 20px;
+            background-color: rgba(255, 255, 255, 0.7);
+        }
+
+        h1 {
+            font-size: 46px;
+            margin: 0;
+            color: gray;
+            border: 2px solid black;
+            background-color: #F3FFFF;
+        }
+
+        .image-container {
+            position: relative;
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        .button-container {
+            position: absolute;
+            top: 100px;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        .button {
+            display: inline-block;
+            padding: 10vh 50vw;
+            font-size: 22px;
+            font-weight: bold;
+            background-color: rgba(255, 255, 255, 0.7);
+            color: black;
+            text-decoration: none;
+            clip-path: polygon(50% 0%, 70% 40%, 50% 100%, 30% 40%);
+            margin-top: -10px;
+            transition: transform 0.3s, background-color 0.3s, color 0.3s;
+        }
+
+        .button:hover {
+            background-color: gray;
+            color: white;
+        }
+
+        .button.clicked {
+            transform: scale(0.95);
+        }
+
+        /* Diamond Animation */
+        .diamond-container {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+        }
+
+        .diamond {
+            position: absolute;
+            width: 20px;
+            height: 20px;
+            background-color: #F3FFFF;
+            clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+            animation: moveDiamond 5s infinite linear;
+        }
+
+        @keyframes moveDiamond {
+            0% {
+                transform: translate(0, 0);
+            }
+            50% {
+                transform: translate(50px, 50px);
+            }
+            100% {
+                transform: translate(0, 0);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Welcome to Diamond Price Prediction Model</h1>
+    </div>
+    <div class="image-container">
+        <div class="button-container">
+            <a href="/predict" class="button" onclick="animateButtonClick()">Go to Prediction Model</a>
+        </div>
+        <!-- Adding moving diamonds -->
+        <div class="diamond-container">
+            <div class="diamond"></div>
+            <div class="diamond" style="top: 100px; left: 150px;"></div>
+            <div class="diamond" style="top: 200px; left: 300px;"></div>
+            <!-- Add more diamonds as needed -->
+        </div>
+    </div>
+
+    <script>
+        function animateButtonClick() {
+            var button = document.querySelector('.button');
+            button.classList.add('clicked');
+
+            setTimeout(function () {
+                button.classList.remove('clicked');
+            }, 300); // Adjust the timeout to match the transition duration
+        }
+    </script>
+</body>
+</html>
