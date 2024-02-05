@@ -2,15 +2,36 @@
 
 # Overview:
 
-This project aims to build a robust machine learning pipeline for predicting the price of diamonds based on their various features and characteristics. By leveraging a comprehensive dataset that includes information such as carat weight, cut quality, color, clarity, and dimensions, GemExquisite's data science team will develop an accurate and reliable diamond price prediction model.
-The pipeline encompasses data preprocessing, feature engineering, model training, and evaluation stages. By employing machine learning algorithms and leveraging data-driven insights, the team aims to provide real-time pricing estimates for diamonds based on their unique attributes. 
+A diamond distributor has recently decided to exit the market and has put up a set of 3,000 diamonds up for auction. Seeing this as a great opportunity to expand its inventory, a jewelry company has shown interest in making a bid. To decide how much to bid, you will use a large database of diamond prices to build a model to predict the price of a diamond based on its attributes. Then you will use the results of that model to make a recommendation for how much the company should bid.
 
-# Objectives:
-Develop and deploy a diamond price prediction model to accurately estimate the price of diamonds. Enhance customer satisfaction by providing fair and transparent pricing information. Enable sales representatives to provide real-time pricing estimates to customers.
+The diamond price that the model predicts represents the final retail price the consumer will pay. The company generally purchases diamonds from distributors at 70% of the that price, so your recommended bid price should represent that.
 
-**This pipeline is divided in two main steps: data preprocessing and model training pipelines (both inside kpr/pipelines)
+# Data Understanding
+We will be predicting prices for the gemstone.csv dataset.
+
+`Carat` represents the weight of the diamond, and is a numerical variable. 
+`Cut` represents the quality of the cut of the diamond, and falls into 5 categories: **fair, good, very good, ideal, and premium**. In project zero, these categories were represented by an ordinal variable, 1-5. You can decide to use the ordinal or categorical variable. 
+`Clarity` represents the internal purity of the diamond, and falls into 8 categories: **I1, SI2, SI1, VS2, VS1, VVS2, VVS1, and IF (in order from least to most pure)**. In project zero, these categories were represented by an ordinal variable, 1-8. You can decide to use the ordinal or categorical variable. 
+`Color` represents the color of the diamond, and is rated D through J, with D being the most colorless (and valuable) and J being the most yellow.
+
+`Best Model:`  **Ridge**
+`Accuracy:` **95%**
+
+
+**This pipeline is divided in two main steps: data preprocessing and model training pipelines (both inside kpr/pipelines)**
 
 <img src = "https://github.com/KRISHANKUMARPRAJAPAT/DiamondPricePrediction1/blob/main/img/pipeline.png" alt="MLBC">
+
+# Home Page:
+
+
+# Prediction Page:
+
+
+# Assigning Values:
+
+
+# Final Result:
 
 
 # Contact:
