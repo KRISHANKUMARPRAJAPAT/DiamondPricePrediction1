@@ -20,4 +20,3 @@ Contributions to this project are welcome. If you have any suggestions or improv
 |Name| Linkedin | Github |
 |-|-|-|
 |Krishan kumar| [Linkedin](www.linkedin.com/in/krishan-kumar-451002262) | [Github](https://github.com/KRISHANKUMARPRAJAPAT)
-|-|-|-|
