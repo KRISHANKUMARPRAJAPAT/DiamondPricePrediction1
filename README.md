@@ -37,7 +37,7 @@ We will be predicting prices for the gemstone.csv dataset.
 
 `Model Applied:` Linear Regression, Lasso, Ridge, Decisioon Tree Regressor
 
-`Best Model:`  **Ridge**
+`Best Model:`  **Decisioon Tree**
 
 `Accuracy:` **95%**
 
