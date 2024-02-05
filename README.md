@@ -16,7 +16,8 @@ Develop and deploy a diamond price prediction model to accurately estimate the p
 # Contribuiting
 Contributions to this project are welcome. If you have any suggestions or improvements, please feel free to contact me.
 
-|-|-|-|
+
 |Name| Linkedin | Github |
+|-|-|-|
 |Krishan kumar| [Linkedin](www.linkedin.com/in/krishan-kumar-451002262) | [Github](https://github.com/KRISHANKUMARPRAJAPAT)
 |-|-|-|
