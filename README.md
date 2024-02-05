@@ -46,4 +46,4 @@ For inquiries or further information, please contact me at:
 
 |Name| Linkedin | Github | Email |
 |-|-|-|-|
-|Krishan kumar| [Linkedin](www.linkedin.com/in/krishan-kumar-451002262) | [Github](https://github.com/KRISHANKUMARPRAJAPAT) | [Email](krishnakumarprajapat366@gmail.com)
+|Krishan kumar| [Linkedin](https://www.linkedin.com/in/krishan-kumar-451002262/) | [Github](https://github.com/KRISHANKUMARPRAJAPAT) | [Email](krishnakumarprajapat366@gmail.com)
