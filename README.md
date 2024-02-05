@@ -10,11 +10,15 @@ The diamond price that the model predicts represents the final retail price the 
 We will be predicting prices for the gemstone.csv dataset.
 
 `Carat` represents the weight of the diamond, and is a numerical variable. 
+
 `Cut` represents the quality of the cut of the diamond, and falls into 5 categories: **fair, good, very good, ideal, and premium**. In project zero, these categories were represented by an ordinal variable, 1-5. You can decide to use the ordinal or categorical variable. 
+
 `Clarity` represents the internal purity of the diamond, and falls into 8 categories: **I1, SI2, SI1, VS2, VS1, VVS2, VVS1, and IF (in order from least to most pure)**. In project zero, these categories were represented by an ordinal variable, 1-8. You can decide to use the ordinal or categorical variable. 
+
 `Color` represents the color of the diamond, and is rated D through J, with D being the most colorless (and valuable) and J being the most yellow.
 
 `Best Model:`  **Ridge**
+
 `Accuracy:` **95%**
 
 
