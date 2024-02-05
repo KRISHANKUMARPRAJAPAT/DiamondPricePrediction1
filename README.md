@@ -11,3 +11,12 @@ Develop and deploy a diamond price prediction model to accurately estimate the p
 **This pipeline is divided in two main steps: data preprocessing and model training pipelines (both inside kpr/pipelines)
 
 <img src = "https://github.com/KRISHANKUMARPRAJAPAT/DiamondPricePrediction1/blob/main/img/pipeline.png" alt="MLBC">
+
+
+# Contribuiting
+Contributions to this project are welcome. If you have any suggestions or improvements, please feel free to contact me.
+
+|-|-|-|
+|Name| Linkedin | Github |
+|Krishan kumar| [Linkedin](www.linkedin.com/in/krishan-kumar-451002262) | [Github](https://github.com/KRISHANKUMARPRAJAPAT)
+|-|-|-|
