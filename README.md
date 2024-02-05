@@ -13,10 +13,9 @@ Develop and deploy a diamond price prediction model to accurately estimate the p
 <img src = "https://github.com/KRISHANKUMARPRAJAPAT/DiamondPricePrediction1/blob/main/img/pipeline.png" alt="MLBC">
 
 
-# Contribuiting
-Contributions to this project are welcome. If you have any suggestions or improvements, please feel free to contact me.
+# Contact:
+For inquiries or further information, please contact me at:
 
-
-|Name| Linkedin | Github |
-|-|-|-|
-|Krishan kumar| [Linkedin](www.linkedin.com/in/krishan-kumar-451002262) | [Github](https://github.com/KRISHANKUMARPRAJAPAT)
+|Name| Linkedin | Github | Email |
+|-|-|-|-|
+|Krishan kumar| [Linkedin](www.linkedin.com/in/krishan-kumar-451002262) | [Github](https://github.com/KRISHANKUMARPRAJAPAT) | [Email](krishnakumarprajapat366@gmail.com)
