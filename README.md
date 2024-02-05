@@ -27,16 +27,16 @@ We will be predicting prices for the gemstone.csv dataset.
 <img src = "https://github.com/KRISHANKUMARPRAJAPAT/DiamondPricePrediction1/blob/main/img/pipeline.png" alt="MLBC">
 
 # Home Page:
-
+<img src = "https://github.com/KRISHANKUMARPRAJAPAT/DiamondPricePrediction1/blob/main/img/home_page.png" alt="MLBC">
 
 # Prediction Page:
-
+<img src = "https://github.com/KRISHANKUMARPRAJAPAT/DiamondPricePrediction1/blob/main/img/prediction_page.png" alt="MLBC">
 
 # Assigning Values:
-
+<img src = "https://github.com/KRISHANKUMARPRAJAPAT/DiamondPricePrediction1/blob/main/img/assigning_values.png" alt="MLBC">
 
 # Final Result:
-
+<img src = "https://github.com/KRISHANKUMARPRAJAPAT/DiamondPricePrediction1/blob/main/img/final_result.png" alt="MLBC">
 
 # Contact:
 For inquiries or further information, please contact me at:
