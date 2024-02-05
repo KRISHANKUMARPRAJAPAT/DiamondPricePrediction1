@@ -17,9 +17,6 @@ We will be predicting prices for the gemstone.csv dataset.
 
 `Color` represents the color of the diamond, and is rated D through J, with D being the most colorless (and valuable) and J being the most yellow.
 
-`Best Model:`  **Ridge**
-
-`Accuracy:` **95%**
 
 
 **This pipeline is divided in two main steps: data preprocessing and model training pipelines (both inside kpr/pipelines)**
@@ -37,6 +34,12 @@ We will be predicting prices for the gemstone.csv dataset.
 
 # Final Result:
 <img src = "https://github.com/KRISHANKUMARPRAJAPAT/DiamondPricePrediction1/blob/main/img/final_result.png" alt="MLBC">
+
+`Model Applied:` Linear Regression, Lasso, Ridge, Decisioon Tree Regressor
+
+`Best Model:`  **Ridge**
+
+`Accuracy:` **95%**
 
 # Contact:
 For inquiries or further information, please contact me at:
