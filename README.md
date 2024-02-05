@@ -9,3 +9,5 @@ The pipeline encompasses data preprocessing, feature engineering, model training
 Develop and deploy a diamond price prediction model to accurately estimate the price of diamonds. Enhance customer satisfaction by providing fair and transparent pricing information. Enable sales representatives to provide real-time pricing estimates to customers.
 
 **This pipeline is divided in two main steps: data preprocessing and model training pipelines (both inside kpr/pipelines)
+
+<img src = "https://github.com/KRISHANKUMARPRAJAPAT/DiamondPricePrediction1/blob/main/img/pipeline.png" alt="MLBC">
